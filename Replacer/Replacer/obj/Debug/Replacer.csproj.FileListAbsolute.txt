@@ -7,3 +7,12 @@ c:\users\max\Dropbox\Dokumente\Visual Studio 2015\Projects\Replacer\Replacer\obj
 c:\users\max\Dropbox\Dokumente\Visual Studio 2015\Projects\Replacer\Replacer\obj\Debug\Replacer.csproj.GenerateResource.Cache
 c:\users\max\Dropbox\Dokumente\Visual Studio 2015\Projects\Replacer\Replacer\obj\Debug\Replacer.exe
 c:\users\max\Dropbox\Dokumente\Visual Studio 2015\Projects\Replacer\Replacer\obj\Debug\Replacer.pdb
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\bin\Debug\Replacer.exe.config
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\bin\Debug\Replacer.exe
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\bin\Debug\Replacer.pdb
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\obj\Debug\Replacer.csprojResolveAssemblyReference.cache
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\obj\Debug\Replacer.Form1.resources
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\obj\Debug\Replacer.Properties.Resources.resources
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\obj\Debug\Replacer.csproj.GenerateResource.Cache
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\obj\Debug\Replacer.exe
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\obj\Debug\Replacer.pdb

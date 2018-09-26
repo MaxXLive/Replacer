@@ -1,0 +1,8 @@
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\bin\Release\Replacer.exe.config
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\bin\Release\Replacer.exe
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\bin\Release\Replacer.pdb
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\obj\Release\Replacer.Form1.resources
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\obj\Release\Replacer.Properties.Resources.resources
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\obj\Release\Replacer.csproj.GenerateResource.Cache
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\obj\Release\Replacer.exe
+C:\Users\maxer\Dropbox\Dokumente\Visual Studio 2015\Projects\C#\Replacer\Replacer\obj\Release\Replacer.pdb
